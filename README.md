@@ -8,4 +8,4 @@ SignalR Example MVC Application
 	- Provider: unpkg
 	- Library: @microsoft/signalr@latest
 	- Install
-	- Optionally move *wwwroot/lib/microsoft/signalr/dist/browser/signalr.js* to *wwwroot/js*
+	- Optionally move **wwwroot/lib/microsoft/signalr/dist/browser/signalr.js** to **wwwroot/js**
