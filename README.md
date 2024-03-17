@@ -1,5 +1,5 @@
 # SignalRExample
-SignalR Example MVC Application
+SignalR Example MVC Application from https://www.youtube.com/watch?v=pl0OobPmWTk 
 
 - To add signalR javascript libraries: 
 	- Right click on the project name in the solution explorer
